@@ -50,5 +50,5 @@ Using the song and event datasets, you'll need to create a star schema optimized
    - start_time, hour, day, week, month, year, weekday    
 
 # Starting the program  
-- [x] Add IAM role info to "dwh.cfg".
+- [x] Add IAM role info to "dl.cfg".
 - [x] Execute "etl.py"
